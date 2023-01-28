@@ -1,5 +1,29 @@
 {
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanNotAvailable/TeamProfile-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JordanNotAvailable/TeamProfile-Generator/issues"
+  },
+  "homepage": "https://github.com/JordanNotAvailable/TeamProfile-Generator#readme"
 }
